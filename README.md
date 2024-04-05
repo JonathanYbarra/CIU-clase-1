@@ -4,7 +4,8 @@
 
 - Instalar `Node.js` en tu pc [Node.js(LTS)](https://nodejs.org/en/download/)
 - Verificar que Node.js este instalado correctamente, con el siguiente comando:
-- Instalar Visual Studio Code 
+- Instalar Visual Studio Code
+- Instalar Git
 
 ```bash
 node -v
